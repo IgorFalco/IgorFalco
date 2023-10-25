@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Sou estudante de Engenharia Elétrica com foco em Computação na UFMG
-- 📖 Estudando C++
+- 🌱 Sou estudante de Engenharia de Sistemas na UFMG
+- 📖 Estudando C++, Typescript para desenvolvimento backend
 - 📫 Meu e-mail para contato é igortsfalco@gmail.com
 
 <div align="center">
